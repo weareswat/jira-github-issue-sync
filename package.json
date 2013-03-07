@@ -1,6 +1,6 @@
 {
   "author": "SWAT <swat@weareswat.com>",
-  "name": "Sync JIRA - Github",
+  "name": "sync-jira-github",
   "description": "Sync jira's stories/sprints to github's milestones/issues",
   "version": "0.1.0",
   "homepage": "https://github.com/weareswat/jira-github-issue-sync",
@@ -14,7 +14,8 @@
 
   "dependencies": {
     "underscore": "1.4.2",
-    "request": "2.14.x"
+    "github": "0.1.x",
+    "jira": "0.2.x"
   },
 
   "engines": {
