@@ -1,5 +1,6 @@
 {
   "jira": {
+    "protocol": "https",
   },
   "github": {
   }
