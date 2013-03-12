@@ -23,6 +23,10 @@
   "engines": {
     "node": "0.8.x",
     "npm": "1.1.x"
+  },
+
+  "bin": {
+    "sync-gira-github": "./bin/sync-jira-github"
   }
 
 }
