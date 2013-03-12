@@ -2,7 +2,7 @@
   "author": "SWAT <swat@weareswat.com>",
   "name": "sync-jira-github",
   "description": "Sync jira's stories/sprints to github's milestones/issues",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/weareswat/jira-github-issue-sync",
   "preferGlobal": "true",
   "main" : "./sync.js",
