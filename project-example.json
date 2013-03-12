@@ -1,7 +1,28 @@
 {
   "jira": {
     "protocol": "https",
+    "host": "weareswat.atlassian.net",
+    "port": "",
+    "user": "user",
+    "password": "pass",
+    "defaultApi": {
+      "version": "2"
+    },
+    "greenhopper": {
+      "version": "1.0"
+    },
+    "project": "Project name"
   },
   "github": {
+    "user": "user",
+    "repo": "repo-name",
+    "auth": {
+      "type": "basic",
+      "username": "user",
+      "password": "pass"
+    }
+  },
+  "userMapping": {
+    "jira-username": "github-username"
   }
 }
