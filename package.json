@@ -15,6 +15,7 @@
   "dependencies": {
     "underscore": "1.4.2",
     "request": "2.14.x",
+    "utf8": "1.0.0",
     "async": "0.2.6",
     "github": "0.1.x",
     "jira": "0.2.x"
